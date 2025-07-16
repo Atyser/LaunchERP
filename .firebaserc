@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "launcherp-ebe62"
-  }
+    "default": "launcherp-ebe62",
+    "new": "launcherpv2"
+  },
+  "targets": {},
+  "etags": {}
 }
