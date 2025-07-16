@@ -16,4 +16,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_LAUNCHERP_EBE62 }}
           channelId: live
-          projectId: launcherp-ebe62
+          projectId: launcherpv2
